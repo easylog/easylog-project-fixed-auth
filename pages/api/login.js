@@ -45,4 +45,5 @@ export default async function handler(req, res) {
     });
   } catch (error) {
     console.error('Login-Fehler:', error);
-    return res.status(500).json({ message: '
+    return res.status(500).json({ message: 'Serverfehler bei der Anmeldung' });
+
