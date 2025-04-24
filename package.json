@@ -1,4 +1,3 @@
-
 {
   "name": "easylog-no-login",
   "version": "1.0.0",
@@ -10,7 +9,7 @@
   "dependencies": {
     "next": "13.5.11",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
     "mongodb": "^5.7.0"
   }
 }
